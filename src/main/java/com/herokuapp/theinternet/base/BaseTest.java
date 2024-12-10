@@ -22,6 +22,8 @@ public class BaseTest {
 		
 		BrowserDriverFactory factory = new BrowserDriverFactory(browser, log);
 		driver = factory.createDriver();
+		System.out.println("Added Comments for GIT_1");
+		System.out.println("Added Comments for GIT_2");
 		
 		// This sleep here is for instructor only. Students don't need this here
 		try {
