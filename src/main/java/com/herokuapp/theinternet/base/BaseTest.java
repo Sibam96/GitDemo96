@@ -29,6 +29,7 @@ public class BaseTest {
 		System.out.println("Added Comments for GIT_4");
 		System.out.println("Added Comments for GIT_5");
 		System.out.println("Added Comments for GIT_6");
+		System.out.println("Added comment from develop");
 		
 		// This sleep here is for instructor only. Students don't need this here
 		try {
