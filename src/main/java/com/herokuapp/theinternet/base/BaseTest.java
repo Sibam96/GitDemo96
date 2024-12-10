@@ -25,6 +25,11 @@ public class BaseTest {
 		System.out.println("Added Comments for GIT_1");
 		System.out.println("Added Comments for GIT_2");
 		
+		System.out.println("Added Comments for GIT_3");
+		System.out.println("Added Comments for GIT_4");
+		System.out.println("Added Comments for GIT_5");
+		System.out.println("Added Comments for GIT_6");
+		
 		// This sleep here is for instructor only. Students don't need this here
 		try {
 			Thread.sleep(3000);

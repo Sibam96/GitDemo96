@@ -14,6 +14,7 @@ public class BrowserDriverFactory {
 	public BrowserDriverFactory(String browser, Logger log) {
 		this.browser = browser.toLowerCase();
 		this.log = log;
+		System.out.println("Another comment added here");
 	}
 
 	public WebDriver createDriver() {
