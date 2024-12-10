@@ -40,6 +40,11 @@ public class BaseTest {
 		
 		driver.manage().window().maximize();
 	}
+	
+	public void tearDown_1() {
+		System.out.println("Added from GitX");
+	}
+
 
 	@AfterMethod(alwaysRun = true)
 	public void tearDown() {
